@@ -2,7 +2,7 @@
 
 🎓 HUFS | Information and Communication Engineering  
 💻 Backend Developer in training  
-🚀 Currently learning Django, Java  
+🚀 Currently learning Django, Java, Spring boot
 📌 LikeLion 13th
 
 ---
@@ -10,4 +10,4 @@
 ### 📫 Contact
 - Email: bb1212b@example.com
 - Blog: https://your-blog.tistory.com
-- instagram: _jxwon
+- instagram: https://www.instagram.com/_jxwon/
