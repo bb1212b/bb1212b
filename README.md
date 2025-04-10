@@ -1,9 +1,9 @@
-# 👋 Hi, I'm Juwon!
+# 👋 Hi, I'm Juwon
 
 🎓 HUFS | Information and Communication Engineering  
 💻 Backend Developer in training  
-🚀 Currently learning Django, Java, Spring Boot
-📌 LikeLion 13th
+🚀 Currently learning Django, Java  
+📌 LikeLion 12th
 
 ---
 
