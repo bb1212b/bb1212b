@@ -8,6 +8,6 @@
 ---
 
 ### 📫 Contact
-- Email: bb1212b@example.com
-- Blog: https://your-blog.tistory.com
+- Email: qowndnjs124@naver.com
+- Blog: https://velog.io/@bb1212b/posts
 - instagram: https://www.instagram.com/_jxwon/
