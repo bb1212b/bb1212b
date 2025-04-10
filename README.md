@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm Juwon!
 
-<!--
-**bb1212b/bb1212b** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 HUFS | Information and Communication Engineering  
+💻 Backend Developer in training  
+🚀 Currently learning Django, Java  
+📌 LikeLion 12th
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ✨ My Projects
+- [Django Todolist](https://github.com/bb1212b/Django_0409session)
+- [VSCode-dev](https://github.com/bb1212b/VScode-dev)
+
+---
+
+### 📫 Contact
+- Email: bb1212b@example.com
+- Blog: https://your-blog.tistory.com
