@@ -3,7 +3,7 @@
 🎓 HUFS | Information and Communication Engineering  
 💻 Backend Developer in training  
 🚀 Currently learning Django, Java  
-📌 LikeLion 12th
+📌 LikeLion 13th
 
 ---
 
