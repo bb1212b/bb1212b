@@ -12,4 +12,3 @@
 - Blog: https://velog.io/@bb1212b/posts
 - instagram: https://www.instagram.com/_jxwon/
 
-![Juwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=bb1212b&show_icons=true&theme=radical)
